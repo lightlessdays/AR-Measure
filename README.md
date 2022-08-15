@@ -2,7 +2,7 @@
 
 ## ⬇️ Test the app
 
-Download the latest version of the app from here: [Download  APK]([https://drive.google.com/file/d/1_PrTd16t8KlljcNWAl8-2Pg3NPU5OJI4/view?usp=sharing](https://drive.google.com/file/d/1NMntU4sw-X6r29BEuf5NKYSfiZeJnsfs/view?usp=sharing))
+Download the latest version of the app from here: [Download  APK](https://drive.google.com/file/d/1NMntU4sw-X6r29BEuf5NKYSfiZeJnsfs/view?usp=sharing)
 
 ## 🔮 How it works?
 

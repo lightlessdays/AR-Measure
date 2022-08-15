@@ -2,9 +2,9 @@
 
 ## ⬇️ Test the app
 
-Download the latest version of the app from here: [Download  APK](https://drive.google.com/file/d/1Fu2JiDTRhXsdUTZnmY3Sjc59y0WW6Q7M/view?usp=sharing)
+Download the latest version of the app from here: [Download  APK](https://drive.google.com/file/d/1swRZyMVpV0ZkRZf5vM0OW6n8oP2ph1Uc/view?usp=sharing)
 
-Download the Unity project from here: [Download Unity Project](https://drive.google.com/file/d/18e_Tvzln7iYN8T70VcvTb0lHsipe0EJe/view?usp=sharing)
+Download the Unity project from here: [Download Unity Project](https://drive.google.com/file/d/1sMaElvk7uQLac70DudYIOaE1klkfEVJy/view?usp=sharing)
 
 ## 🔮 How it works?
 

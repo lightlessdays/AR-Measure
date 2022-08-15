@@ -30,9 +30,9 @@ public class LineManager : MonoBehaviour
 
     void DrawLine(ARObjectPlacementEventArgs args) {
 
-        //1. Increase point count.
+        //Initially, the line renderer has zero points on screen. Every time a sphere is instantiated, we will add another point to the line renderer.
         _lineRenderer.positionCount++;
-        //2. Let the points' location in line renderer.
+        //The coordinates of the last point of line renderer would be set to the placement position of the sphere.
         _lineRenderer.SetPosition(_lineRenderer.positionCount - 1,args.placementObject.transform.position);
 
         if (_lineRenderer.positionCount > 1)

@@ -24,4 +24,7 @@ Fork this project, make some changes and send a pull request to contribute to th
 
 ## 📱 Screenshots
 
-TO-DO: Upload screenshots
+
+![Screenshot_20220815-160634_ARMeasure](https://user-images.githubusercontent.com/97734029/184621405-6c5f7e49-0d44-4938-a953-76f0ece8848c.jpg)
+![Screenshot_20220815-160740_ARMeasure](https://user-images.githubusercontent.com/97734029/184621411-3536d605-140d-41d2-8cd9-fa4b1b907e3c.jpg)
+![Screenshot_20220815-160512_ARMeasure](https://user-images.githubusercontent.com/97734029/184621412-a9506ba9-8388-408b-932a-e413e4bf87e7.jpg)

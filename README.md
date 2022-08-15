@@ -8,11 +8,11 @@ Download the Unity project from here: [Download Unity Project](https://drive.goo
 
 ## 🔮 How it works?
 
-This app gets the vector positions of two points in three dimensional space, and then uses the Vector Distance Formula to find the distance between the two vectors, accurately upto two decimal places. It then renders the distance in augmented reality world space.
+This app gets the vector positions of two points in three dimensional space, and then uses the Vector Distance Formula to find the distance between the two vectors, accurately upto two decimal places. It then renders the distance in augmented reality world space. This app uses the ARFoundation plugin for Unity.
 
 ## ✨ Problem it solves
 
-Measuring surfaces using traditional method- rulers, inch tapes, etc. is hard and tedious. With the help of this app, you can measure any surface in matter of seconds.
+Measuring surfaces using traditional method- rulers, inch tapes, etc. is hard and tedious. With the help of this app, you can measure any surface in a matter of seconds- just selects two points on the screen- and boom... you have your distance in a second. 
 
 ## 🤝 Contribute to this project
 

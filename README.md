@@ -19,7 +19,6 @@ Measuring surfaces using traditional method- rulers, inch tapes, etc. is hard an
 Fork this project, make some changes and send a pull request to contribute to this project. You might consider completing one of the tasks from to-do list:
 - Adding undo button, to remove the previous point.
 - Adding discrete and continous buttons to let users to choose whether they want to measure points discretely or continously.
-- Adding screenshots of the app.
 - Adding an iOS .ipa file for Apple Users.
 
 ## 📱 Screenshots

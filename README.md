@@ -8,7 +8,7 @@ Download the Unity project from here: [Download Unity Project](https://drive.goo
 
 ## 🔮 How it works?
 
-This app gets the vector positions of two points in three dimensional space, and then uses the Vector Distance Formula to find the distance between the two vectors, accurately upto two decimal places.
+This app gets the vector positions of two points in three dimensional space, and then uses the Vector Distance Formula to find the distance between the two vectors, accurately upto two decimal places. It then renders the distance in augmented reality world space.
 
 ## ✨ Problem it solves
 
@@ -24,5 +24,4 @@ Fork this project, make some changes and send a pull request to contribute to th
 
 ## 📱 Screenshots
 
-
-  </p>
+TO-DO: Upload screenshots

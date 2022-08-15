@@ -1,4 +1,4 @@
-![banner](https://github.com/lightlessdays/ar-tiles/blob/main/AR%20Tiles%20Banner.png)
+![banner](https://github.com/lightlessdays/ar-measure/blob/main/BANNER.png)
 
 ## ⬇️ Test the app
 

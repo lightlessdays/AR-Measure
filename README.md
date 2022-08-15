@@ -25,8 +25,9 @@ Fork this project, make some changes and send a pull request to contribute to th
 ## 📱 Screenshots
 
 <p>
-  <img src="https://user-images.githubusercontent.com/97734029/184621412-a9506ba9-8388-408b-932a-e413e4bf87e7.jpg" width=40%><br>
-  <img src="https://user-images.githubusercontent.com/97734029/184622077-fd8a4b7a-9c5b-4a2f-800b-87e7629d3980.jpg" width=100%>
+  
+  <img src="https://user-images.githubusercontent.com/97734029/184622077-fd8a4b7a-9c5b-4a2f-800b-87e7629d3980.jpg" width=100%><br>
+  <img src="https://user-images.githubusercontent.com/97734029/184621412-a9506ba9-8388-408b-932a-e413e4bf87e7.jpg" width=40%>
 </p>
 
 

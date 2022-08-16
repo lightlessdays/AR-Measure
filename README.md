@@ -4,8 +4,6 @@
 
 Download the latest version of the app from here: [Download  APK](https://drive.google.com/file/d/1swRZyMVpV0ZkRZf5vM0OW6n8oP2ph1Uc/view?usp=sharing)
 
-Download the Unity project from here: [Download Unity Project](https://drive.google.com/file/d/1sMaElvk7uQLac70DudYIOaE1klkfEVJy/view?usp=sharing)
-
 ## 🔮 How it works?
 
 This app gets the vector positions of two points in three dimensional space, and then uses the Vector Distance Formula to find the distance between the two vectors, accurately upto two decimal places. It then renders the distance in augmented reality world space. This app uses the ARFoundation plugin for Unity.

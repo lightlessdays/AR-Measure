@@ -1,3 +1,4 @@
+//namespaces. The XR Interaction Toolkit was deprecated, but works.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -71,6 +72,7 @@ public class LineManager : MonoBehaviour
         
     }
 
+    //when Reload method is called, the current scene is reloaded. In essence, the app restarts.
     void Reload(){
             SceneManager.LoadScene(SceneManager.GetActiveScene().name); // reloads current scene
     }
